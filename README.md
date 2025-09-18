@@ -1,10 +1,13 @@
 # Netflix Movie Recommendation System
+
 ##📌 Project Description
 
 This project builds a personalized movie recommendation system using the Netflix dataset. The main goal is to predict user ratings for unseen movies and recommend the most suitable ones to each user. It applies collaborative filtering techniques to learn user preferences from historical rating data.
+
 ##📂 Data Loading and Description
 
 The dataset is loaded from CSV/Netflix files. It contains user IDs, movie IDs, and their corresponding ratings. Each row represents a rating that a user has given to a movie. The data is explored to understand its size, structure, and basic statistics before applying any modeling.
+
 ##📊 Exploratory Data Analysis (EDA)
 
 EDA helps in understanding the distribution of ratings, user behavior, and movie popularity. Key steps include:
